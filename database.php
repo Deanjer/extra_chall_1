@@ -50,7 +50,9 @@ $result = $conn->query($sql);
     <link rel="stylesheet" href="assets/css/database.css">
 </head>
 <body>
+    <div class="flex-container">
     <a href="http://localhost/extra_chall_1/test.html"><button class="d-db">Terug</button></a>
+    </div>
     <table align="center" border="1px" style="width:80%; line-height:3">
         <tr>
             <th colspan="6"><h2>Auto data</h2></th>
